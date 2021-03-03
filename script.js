@@ -1,3 +1,4 @@
+//
 let display = document.querySelector("#display");
 let btnClear = document.querySelector("#btn-clear");
 let btnClaerLastAction = document.querySelector("#btn-clear-last-action");
